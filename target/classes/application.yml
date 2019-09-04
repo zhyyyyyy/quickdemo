@@ -1,0 +1,7 @@
+person:
+     name: zhy
+     age: 21
+     map: {k1: 11,k2: 22}
+     list:
+       - cy
+       - zhy
